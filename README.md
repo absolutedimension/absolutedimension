@@ -1,5 +1,5 @@
 Hi, I'm Deepak Kumar 👋
-Founder-CTO · AI Agents · Full-Stack · XR/VR** — 18+ years turning ideas into shipped products.
+Founder-CTO · AI Agents · Full-Stack · XR/VR — 18+ years turning ideas into shipped products.
 
 🔹 AI agents & automation** — LangChain, RAG, n8n, Python, OpenAI/Claude APIs
 🔹 Full-stack** — React, Next.js, Node.js, MongoDB, Supabase
